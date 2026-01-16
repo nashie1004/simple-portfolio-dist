@@ -4,4 +4,4 @@ I like to keep things simple, so I'm rebuilding my personal [website](https://na
 Also check out my PDF app [here](https://dxve3m82rjea0.cloudfront.net).
 
 - [Repo](https://github.com/nashie1004/simple-portfolio)
-- [URL](https://d1dxcxwsn4148z.cloudfront.net)
+- [Site URL](https://nashie1004.github.io/simple-portfolio-dist/)
